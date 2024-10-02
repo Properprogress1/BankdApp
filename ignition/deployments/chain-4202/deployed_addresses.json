@@ -1,3 +1,5 @@
 {
-  "RoperzBankModule#RoperzBank": "0x8d4a394A52fDa77EE8Eb2cDd0F383CFEE6d970C7"
+  "InsuranceModule#Insurance": "0xcD2F697648a2E36F887c98B53ABff344c0a1721A",
+  "LendingModule#Lending": "0xCDEFDFC4c8a5cF6d3e705a5DA533EeA2DEA41328",
+  "RoperzTokenModule#RoperzBankToken": "0x994A7bFBBD813d6BeA704bC9C9F5495B9b6Abcea"
 }
